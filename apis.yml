@@ -40,7 +40,8 @@ apis:
   - name: Final Fantasy XIV
     description: "Final Fantasy XIV Game data API"
     humanURL: https://xivapi.com/
-    tags:
+    tags: []
+    tags_raw:
       - Games And Comics
     properties:
       - type: Documentation
